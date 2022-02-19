@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\bin\Debug\net6.0\resolvendo-prob-sem-OO.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\bin\Debug\net6.0\resolvendo-prob-sem-OO.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\bin\Debug\net6.0\resolvendo-prob-sem-OO.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\bin\Debug\net6.0\resolvendo-prob-sem-OO.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\bin\Debug\net6.0\ref\resolvendo-prob-sem-OO.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\bin\Debug\net6.0\resolvendo-prob-sem-OO.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\obj\Debug\net6.0\resolvendo-prob-sem-OO.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\obj\Debug\net6.0\resolvendo-prob-sem-OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\obj\Debug\net6.0\resolvendo-prob-sem-OO.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\obj\Debug\net6.0\resolvendo-prob-sem-OO.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\obj\Debug\net6.0\resolvendo-prob-sem-OO.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\obj\Debug\net6.0\resolvendo-prob-sem-OO.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\obj\Debug\net6.0\ref\resolvendo-prob-sem-OO.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\obj\Debug\net6.0\resolvendo-prob-sem-OO.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\resolvendo-prob-sem-OO\obj\Debug\net6.0\resolvendo-prob-sem-OO.genruntimeconfig.cache
