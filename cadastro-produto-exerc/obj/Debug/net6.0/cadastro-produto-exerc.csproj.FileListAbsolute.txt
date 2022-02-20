@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\bin\Debug\net6.0\cadastro-produto-exerc.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\bin\Debug\net6.0\cadastro-produto-exerc.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\bin\Debug\net6.0\cadastro-produto-exerc.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\bin\Debug\net6.0\cadastro-produto-exerc.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\bin\Debug\net6.0\ref\cadastro-produto-exerc.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\bin\Debug\net6.0\cadastro-produto-exerc.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\obj\Debug\net6.0\cadastro-produto-exerc.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\obj\Debug\net6.0\cadastro-produto-exerc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\obj\Debug\net6.0\cadastro-produto-exerc.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\obj\Debug\net6.0\cadastro-produto-exerc.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\obj\Debug\net6.0\cadastro-produto-exerc.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\obj\Debug\net6.0\cadastro-produto-exerc.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\obj\Debug\net6.0\ref\cadastro-produto-exerc.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\obj\Debug\net6.0\cadastro-produto-exerc.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\cadastro-produto-exerc\obj\Debug\net6.0\cadastro-produto-exerc.genruntimeconfig.cache
