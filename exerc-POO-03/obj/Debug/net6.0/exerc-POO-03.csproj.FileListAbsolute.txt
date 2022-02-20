@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\bin\Debug\net6.0\exerc-POO-03.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\bin\Debug\net6.0\exerc-POO-03.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\bin\Debug\net6.0\exerc-POO-03.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\bin\Debug\net6.0\exerc-POO-03.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\bin\Debug\net6.0\ref\exerc-POO-03.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\bin\Debug\net6.0\exerc-POO-03.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\obj\Debug\net6.0\exerc-POO-03.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\obj\Debug\net6.0\exerc-POO-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\obj\Debug\net6.0\exerc-POO-03.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\obj\Debug\net6.0\exerc-POO-03.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\obj\Debug\net6.0\exerc-POO-03.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\obj\Debug\net6.0\exerc-POO-03.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\obj\Debug\net6.0\ref\exerc-POO-03.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\obj\Debug\net6.0\exerc-POO-03.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-POO-03\obj\Debug\net6.0\exerc-POO-03.genruntimeconfig.cache
