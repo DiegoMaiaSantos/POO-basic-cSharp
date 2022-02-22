@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\bin\Debug\net6.0\exerc-membros-estaticos.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\bin\Debug\net6.0\exerc-membros-estaticos.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\bin\Debug\net6.0\exerc-membros-estaticos.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\bin\Debug\net6.0\exerc-membros-estaticos.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\bin\Debug\net6.0\ref\exerc-membros-estaticos.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\bin\Debug\net6.0\exerc-membros-estaticos.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\obj\Debug\net6.0\exerc-membros-estaticos.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\obj\Debug\net6.0\exerc-membros-estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\obj\Debug\net6.0\exerc-membros-estaticos.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\obj\Debug\net6.0\exerc-membros-estaticos.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\obj\Debug\net6.0\exerc-membros-estaticos.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\obj\Debug\net6.0\exerc-membros-estaticos.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\obj\Debug\net6.0\ref\exerc-membros-estaticos.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\obj\Debug\net6.0\exerc-membros-estaticos.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-membros-estaticos\obj\Debug\net6.0\exerc-membros-estaticos.genruntimeconfig.cache
