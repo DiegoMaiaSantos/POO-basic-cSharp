@@ -9,11 +9,15 @@ namespace Course
         public double Preco;
         public int Quantidade;
 
-        public Produto(string nome, double preco, int quantidade)
+        public Produto()
+        {
+            
+        }
+
+        public Produto(string nome, double preco) 
         {
             Nome = nome;
             Preco = preco;
-            Quantidade = quantidade;
         }
 
         public double ValorTotalEmEstoque()
