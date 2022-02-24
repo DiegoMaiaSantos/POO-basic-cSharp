@@ -3,3 +3,13 @@ C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\enca
 C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\obj\Debug\net6.0\encapsulamento.AssemblyInfoInputs.cache
 C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\obj\Debug\net6.0\encapsulamento.AssemblyInfo.cs
 C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\obj\Debug\net6.0\encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\bin\Debug\net6.0\encapsulamento.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\bin\Debug\net6.0\encapsulamento.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\bin\Debug\net6.0\encapsulamento.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\bin\Debug\net6.0\encapsulamento.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\bin\Debug\net6.0\ref\encapsulamento.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\bin\Debug\net6.0\encapsulamento.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\obj\Debug\net6.0\encapsulamento.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\obj\Debug\net6.0\ref\encapsulamento.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\obj\Debug\net6.0\encapsulamento.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\obj\Debug\net6.0\encapsulamento.genruntimeconfig.cache
