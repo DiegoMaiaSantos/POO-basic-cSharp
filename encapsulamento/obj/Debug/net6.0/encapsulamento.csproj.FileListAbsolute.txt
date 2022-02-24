@@ -1,0 +1,5 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\obj\Debug\net6.0\encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\obj\Debug\net6.0\encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\obj\Debug\net6.0\encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\obj\Debug\net6.0\encapsulamento.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\encapsulamento\obj\Debug\net6.0\encapsulamento.csproj.CoreCompileInputs.cache
