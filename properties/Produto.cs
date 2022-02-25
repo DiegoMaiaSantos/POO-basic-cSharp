@@ -4,12 +4,17 @@ using System.Globalization;
 namespace Course
 {
     class Produto
-    {
-        // Sempre que usar private as variáveis devem ser iniciadas com _. Exemplo: _nome.
-        private string _nome;
-        private double _preco;
-        private int _quantidade;
+    {        
+        // Ordem sugerida para implementação de membros e classes:
 
+        // Primeiro Atributo privativo:
+        private string _nome;
+
+        // Depois as propriedades autoimplementadas:
+        public double Preco { get; private set; }
+        public int Quantidade { get; set; }        
+
+        // Depois os construtores:
         public Produto()
         {
         }
@@ -17,10 +22,11 @@ namespace Course
         public Produto(string nome, double preco, int quantidade)
         {
             _nome = nome;
-            _preco = preco;
-            _quantidade = quantidade;
+            Preco = preco;
+            Quantidade = quantidade;
         }
 
+        // Depois Propriedades customizadas:
         public string Nome
         {
             get { return _nome; }
@@ -33,33 +39,25 @@ namespace Course
             }
         }
 
-        public double Preco
+        // E por ultimo os outros métodos:
+        public double ValorTotalEmEstoque()
         {
-            get { return _preco; }
+            return Preco * Quantidade;
         }
 
-        public int quantidade
+        public void AdicionarProdutos(int quantidade)
         {
-            get { return _quantidade; }
+            Quantidade += quantidade;
         }
-    }
-    public double ValorTotalEmEstoque()
-    {
-        return _preco * _quantidade;
-    }
 
-    public void AdicionarProdutos(int quantidade)
-    {
-        _quantidade += quantidade;
-    }
+        public void RemoverProdutos(int quantidade)
+        {
+            Quantidade -= quantidade;
+        }
 
-    public void RemoverProdutos(int quantidade)
-    {
-        _quantidade -= quantidade;
-    }
-
-    public override string ToString()
-    {
-        return _nome + ", R$: " + _preco.ToString("F2", CultureInfo.InvariantCulture) + ", " + _quantidade + " unidade(s), total R$: " + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+        public override string ToString()
+        {
+            return _nome + ", R$: " + Preco.ToString("F2", CultureInfo.InvariantCulture) + ", " + Quantidade + " unidade(s), total R$: " + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+        }
     }
 }
