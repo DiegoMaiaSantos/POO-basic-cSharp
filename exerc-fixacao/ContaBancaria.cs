@@ -6,26 +6,28 @@ namespace Course
     class ContaBancaria
     {
         public int Numero { get; private set; }
-        public string Titular { get; set;}
-        public double Saldo { get; set;}
+        public string Titular { get; set; }
+        public double Saldo { get; private set; }
 
-        public void Deposito(double quantia)
+        public ContaBancaria(int numero, string titular)
         {
-            Saldo += quantia;
+            Numero = numero;
+            Titular = titular;
         }
 
-        public void Saque(double quantia)
+        public ContaBancaria(int numero, string titular, double saldo) : this(numero, titular)
         {
-            Saldo -= quantia - 5.0;
+            Saldo = saldo;
         }
 
-        public char Escolha(char escolha)
+        public override string ToString()
         {
-            if (escolha == 's')
-            {
-                Console.Write("Digite o valor de depósito inicia R$: ");
-                dadosCliente.Deposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            }
+            return "Conta "
+            + Numero
+            + ", Titular: "
+            + Titular
+            + ", Saldo R$: "
+            + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }

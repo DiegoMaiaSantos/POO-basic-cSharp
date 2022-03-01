@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\bin\Debug\net6.0\exerc-fixacao.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\bin\Debug\net6.0\exerc-fixacao.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\bin\Debug\net6.0\exerc-fixacao.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\bin\Debug\net6.0\exerc-fixacao.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\bin\Debug\net6.0\ref\exerc-fixacao.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\bin\Debug\net6.0\exerc-fixacao.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\obj\Debug\net6.0\exerc-fixacao.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\obj\Debug\net6.0\exerc-fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\obj\Debug\net6.0\exerc-fixacao.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\obj\Debug\net6.0\exerc-fixacao.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\obj\Debug\net6.0\exerc-fixacao.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\obj\Debug\net6.0\exerc-fixacao.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\obj\Debug\net6.0\ref\exerc-fixacao.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\obj\Debug\net6.0\exerc-fixacao.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\exerc-fixacao\obj\Debug\net6.0\exerc-fixacao.genruntimeconfig.cache
