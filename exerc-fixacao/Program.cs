@@ -9,9 +9,11 @@ namespace Course
         {
             ContaBancaria dadosCliente;
 
+            Console.WriteLine();
             Console.WriteLine("==========================================");
             Console.WriteLine("======= PROGRAMA CONTA BANCARIA ==========");
             Console.WriteLine("==========================================");
+            Console.WriteLine();
             Console.Write("Digite o número da conta: ");
             int numero = int.Parse(Console.ReadLine());
             Console.Write("Digite o nome do titular da conta: ");
@@ -33,6 +35,23 @@ namespace Course
             Console.WriteLine("Dados da conta:");
             Console.WriteLine(dadosCliente);
             Console.WriteLine("==========================================");
+
+            Console.WriteLine();
+            Console.Write("Digite um valor para depósito R$: ");
+            double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            dadosCliente.Deposito(quantia);
+            Console.WriteLine("Dados da conta atualizado: ");
+            Console.WriteLine(dadosCliente);
+            Console.WriteLine("==========================================");
+
+            Console.WriteLine();
+            Console.Write("Digite um valor para saque R$: ");
+            quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            dadosCliente.Saque(quantia);
+            Console.WriteLine("Dados da conta atualizado: ");
+            Console.WriteLine(dadosCliente);
+            Console.WriteLine("==========================================");
+            Console.WriteLine();
         }
     }
 }
