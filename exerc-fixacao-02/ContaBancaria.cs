@@ -15,9 +15,9 @@ namespace Course
             Titular = titular;
         }
 
-        public ContaBancaria(int numero, string titular, double saldo) : this(numero, titular)
+        public ContaBancaria(int numero, string titular, double depositoInicial) : this(numero, titular)
         {
-            Saldo = saldo;
+            Deposito(depositoInicial);
         }
 
         public void Deposito(double quantia)
@@ -25,7 +25,7 @@ namespace Course
             Saldo += quantia;
         }
 
-        public void Saqui(double quantia)
+        public void Saque(double quantia)
         {
             Saldo -= quantia + 5.0;
         }
@@ -34,7 +34,7 @@ namespace Course
         {
             return "Conta "
             + Numero 
-            + "Titular: "
+            + " Titular: "
             + Titular
             + ", Saldo R$: "
             + Saldo.ToString("F2", CultureInfo.InvariantCulture);
