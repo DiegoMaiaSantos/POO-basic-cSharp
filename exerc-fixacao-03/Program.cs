@@ -7,6 +7,8 @@ namespace Course
     {
         static void Main(string[] args)
         {
+            ContaBancaria dadosCliente;
+
             Console.WriteLine("================================================");
             Console.WriteLine("================ CONTA BANCARIA ================");
             Console.WriteLine("================================================");
@@ -18,15 +20,35 @@ namespace Course
             char escolha = char.Parse(Console.ReadLine());
             if (escolha == 's' || escolha == 'S')
             {
-                Console.Write("Digite o valor do depósito inicial R$: ")
+                Console.Write("Digite o valor do depósito inicial R$: ");
                 double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                dadosCliente = new ContaBancaria(numero, titular, depositoInicial);
             }
             else
             {
-                {
-
-                }
+                dadosCliente = new ContaBancaria(numero, titular);
             }
+
+            Console.WriteLine();
+            Console.WriteLine("Dados da conta: ");
+            Console.WriteLine(dadosCliente);
+            Console.WriteLine("================================================");
+
+            Console.Write("Digite um valor para depósito R$: ");
+            double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            dadosCliente.Deposito(quantia);
+            Console.WriteLine();
+            Console.WriteLine("Dados da conta atualizados:");
+            Console.WriteLine(dadosCliente);
+            Console.WriteLine("================================================");
+
+            Console.Write("Digite um valor para saque R$: ");
+            quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            dadosCliente.Saque(quantia);
+            Console.WriteLine();
+            Console.WriteLine("Dados da conta atualizados:");
+            Console.WriteLine(dadosCliente);
+            Console.WriteLine("================================================");
         }
     }
 }
