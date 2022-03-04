@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\bin\Debug\net6.0\tipos-referencia-valor.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\bin\Debug\net6.0\tipos-referencia-valor.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\bin\Debug\net6.0\tipos-referencia-valor.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\bin\Debug\net6.0\tipos-referencia-valor.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\bin\Debug\net6.0\ref\tipos-referencia-valor.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\bin\Debug\net6.0\tipos-referencia-valor.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\obj\Debug\net6.0\tipos-referencia-valor.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\obj\Debug\net6.0\tipos-referencia-valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\obj\Debug\net6.0\tipos-referencia-valor.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\obj\Debug\net6.0\tipos-referencia-valor.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\obj\Debug\net6.0\tipos-referencia-valor.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\obj\Debug\net6.0\tipos-referencia-valor.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\obj\Debug\net6.0\ref\tipos-referencia-valor.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\obj\Debug\net6.0\tipos-referencia-valor.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\tipos-referencia-valor\obj\Debug\net6.0\tipos-referencia-valor.genruntimeconfig.cache
