@@ -1,0 +1,15 @@
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\bin\Debug\net6.0\params-ref-out.exe
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\bin\Debug\net6.0\params-ref-out.deps.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\bin\Debug\net6.0\params-ref-out.runtimeconfig.json
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\bin\Debug\net6.0\params-ref-out.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\bin\Debug\net6.0\ref\params-ref-out.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\bin\Debug\net6.0\params-ref-out.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\obj\Debug\net6.0\params-ref-out.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\obj\Debug\net6.0\params-ref-out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\obj\Debug\net6.0\params-ref-out.AssemblyInfoInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\obj\Debug\net6.0\params-ref-out.AssemblyInfo.cs
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\obj\Debug\net6.0\params-ref-out.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\obj\Debug\net6.0\params-ref-out.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\obj\Debug\net6.0\ref\params-ref-out.dll
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\obj\Debug\net6.0\params-ref-out.pdb
+C:\Users\Diego\Documents\Estudos\curso-csharp-oop-projetos\POO-basic-cSharp\params-ref-out\obj\Debug\net6.0\params-ref-out.genruntimeconfig.cache
