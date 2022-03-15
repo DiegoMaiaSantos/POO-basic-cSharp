@@ -6,7 +6,7 @@ namespace Course
 {
     class Program
     {
-        static Void Main(string[] args)
+        static void Main(string[] args)
         {
             
         }
