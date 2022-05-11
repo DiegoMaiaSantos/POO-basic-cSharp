@@ -1,0 +1,15 @@
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\bin\Debug\net6.0\Matrizes-Aula.exe
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\bin\Debug\net6.0\Matrizes-Aula.deps.json
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\bin\Debug\net6.0\Matrizes-Aula.runtimeconfig.json
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\bin\Debug\net6.0\Matrizes-Aula.dll
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\bin\Debug\net6.0\Matrizes-Aula.pdb
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\obj\Debug\net6.0\Matrizes-Aula.csproj.AssemblyReference.cache
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\obj\Debug\net6.0\Matrizes-Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\obj\Debug\net6.0\Matrizes-Aula.AssemblyInfoInputs.cache
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\obj\Debug\net6.0\Matrizes-Aula.AssemblyInfo.cs
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\obj\Debug\net6.0\Matrizes-Aula.csproj.CoreCompileInputs.cache
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\obj\Debug\net6.0\Matrizes-Aula.dll
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\obj\Debug\net6.0\refint\Matrizes-Aula.dll
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\obj\Debug\net6.0\Matrizes-Aula.pdb
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\obj\Debug\net6.0\Matrizes-Aula.genruntimeconfig.cache
+C:\Users\118274\Documents\CursoCSharp-POO\Matrizes-Aula\Matrizes-Aula\obj\Debug\net6.0\ref\Matrizes-Aula.dll

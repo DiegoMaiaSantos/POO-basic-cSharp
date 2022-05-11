@@ -1,0 +1,15 @@
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\bin\Debug\net6.0\Exerc-Matriz.exe
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\bin\Debug\net6.0\Exerc-Matriz.deps.json
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\bin\Debug\net6.0\Exerc-Matriz.runtimeconfig.json
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\bin\Debug\net6.0\Exerc-Matriz.dll
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\bin\Debug\net6.0\Exerc-Matriz.pdb
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\obj\Debug\net6.0\Exerc-Matriz.csproj.AssemblyReference.cache
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\obj\Debug\net6.0\Exerc-Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\obj\Debug\net6.0\Exerc-Matriz.AssemblyInfoInputs.cache
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\obj\Debug\net6.0\Exerc-Matriz.AssemblyInfo.cs
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\obj\Debug\net6.0\Exerc-Matriz.csproj.CoreCompileInputs.cache
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\obj\Debug\net6.0\Exerc-Matriz.dll
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\obj\Debug\net6.0\refint\Exerc-Matriz.dll
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\obj\Debug\net6.0\Exerc-Matriz.pdb
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\obj\Debug\net6.0\Exerc-Matriz.genruntimeconfig.cache
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-Matriz\Exerc-Matriz\obj\Debug\net6.0\ref\Exerc-Matriz.dll

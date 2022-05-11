@@ -1,0 +1,15 @@
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\bin\Debug\net6.0\sintaxe-alternativa-switchCase.exe
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\bin\Debug\net6.0\sintaxe-alternativa-switchCase.deps.json
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\bin\Debug\net6.0\sintaxe-alternativa-switchCase.runtimeconfig.json
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\bin\Debug\net6.0\sintaxe-alternativa-switchCase.dll
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\bin\Debug\net6.0\sintaxe-alternativa-switchCase.pdb
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\obj\Debug\net6.0\sintaxe-alternativa-switchCase.csproj.AssemblyReference.cache
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\obj\Debug\net6.0\sintaxe-alternativa-switchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\obj\Debug\net6.0\sintaxe-alternativa-switchCase.AssemblyInfoInputs.cache
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\obj\Debug\net6.0\sintaxe-alternativa-switchCase.AssemblyInfo.cs
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\obj\Debug\net6.0\sintaxe-alternativa-switchCase.csproj.CoreCompileInputs.cache
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\obj\Debug\net6.0\sintaxe-alternativa-switchCase.dll
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\obj\Debug\net6.0\refint\sintaxe-alternativa-switchCase.dll
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\obj\Debug\net6.0\sintaxe-alternativa-switchCase.pdb
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\obj\Debug\net6.0\sintaxe-alternativa-switchCase.genruntimeconfig.cache
+C:\Users\118274\Documents\CursoCSharp-POO\sintaxe-alternativa-switchCase\sintaxe-alternativa-switchCase\obj\Debug\net6.0\ref\sintaxe-alternativa-switchCase.dll

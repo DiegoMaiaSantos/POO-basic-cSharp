@@ -1,0 +1,15 @@
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\bin\Debug\net6.0\Exerc-matriz-fixacao.exe
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\bin\Debug\net6.0\Exerc-matriz-fixacao.deps.json
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\bin\Debug\net6.0\Exerc-matriz-fixacao.runtimeconfig.json
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\bin\Debug\net6.0\Exerc-matriz-fixacao.dll
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\bin\Debug\net6.0\Exerc-matriz-fixacao.pdb
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\obj\Debug\net6.0\Exerc-matriz-fixacao.csproj.AssemblyReference.cache
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\obj\Debug\net6.0\Exerc-matriz-fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\obj\Debug\net6.0\Exerc-matriz-fixacao.AssemblyInfoInputs.cache
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\obj\Debug\net6.0\Exerc-matriz-fixacao.AssemblyInfo.cs
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\obj\Debug\net6.0\Exerc-matriz-fixacao.csproj.CoreCompileInputs.cache
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\obj\Debug\net6.0\Exerc-matriz-fixacao.dll
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\obj\Debug\net6.0\refint\Exerc-matriz-fixacao.dll
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\obj\Debug\net6.0\Exerc-matriz-fixacao.pdb
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\obj\Debug\net6.0\Exerc-matriz-fixacao.genruntimeconfig.cache
+C:\Users\118274\Documents\CursoCSharp-POO\Exerc-matriz-fixacao\Exerc-matriz-fixacao\obj\Debug\net6.0\ref\Exerc-matriz-fixacao.dll
