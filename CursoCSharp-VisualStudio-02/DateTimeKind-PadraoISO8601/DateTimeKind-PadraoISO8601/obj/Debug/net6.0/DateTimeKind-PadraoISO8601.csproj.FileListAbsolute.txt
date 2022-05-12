@@ -1,0 +1,15 @@
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\bin\Debug\net6.0\DateTimeKind-PadraoISO8601.exe
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\bin\Debug\net6.0\DateTimeKind-PadraoISO8601.deps.json
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\bin\Debug\net6.0\DateTimeKind-PadraoISO8601.runtimeconfig.json
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\bin\Debug\net6.0\DateTimeKind-PadraoISO8601.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\bin\Debug\net6.0\DateTimeKind-PadraoISO8601.pdb
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\obj\Debug\net6.0\DateTimeKind-PadraoISO8601.csproj.AssemblyReference.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\obj\Debug\net6.0\DateTimeKind-PadraoISO8601.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\obj\Debug\net6.0\DateTimeKind-PadraoISO8601.AssemblyInfoInputs.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\obj\Debug\net6.0\DateTimeKind-PadraoISO8601.AssemblyInfo.cs
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\obj\Debug\net6.0\DateTimeKind-PadraoISO8601.csproj.CoreCompileInputs.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\obj\Debug\net6.0\DateTimeKind-PadraoISO8601.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\obj\Debug\net6.0\refint\DateTimeKind-PadraoISO8601.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\obj\Debug\net6.0\DateTimeKind-PadraoISO8601.pdb
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\obj\Debug\net6.0\DateTimeKind-PadraoISO8601.genruntimeconfig.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\DateTimeKind-PadraoISO8601\DateTimeKind-PadraoISO8601\obj\Debug\net6.0\ref\DateTimeKind-PadraoISO8601.dll

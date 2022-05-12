@@ -1,0 +1,15 @@
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\obj\Debug\net6.0\Propriedade-Operacoes-DateTime.csproj.AssemblyReference.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\obj\Debug\net6.0\Propriedade-Operacoes-DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\obj\Debug\net6.0\Propriedade-Operacoes-DateTime.AssemblyInfoInputs.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\obj\Debug\net6.0\Propriedade-Operacoes-DateTime.AssemblyInfo.cs
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\obj\Debug\net6.0\Propriedade-Operacoes-DateTime.csproj.CoreCompileInputs.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\bin\Debug\net6.0\Propriedade-Operacoes-DateTime.exe
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\bin\Debug\net6.0\Propriedade-Operacoes-DateTime.deps.json
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\bin\Debug\net6.0\Propriedade-Operacoes-DateTime.runtimeconfig.json
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\bin\Debug\net6.0\Propriedade-Operacoes-DateTime.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\bin\Debug\net6.0\Propriedade-Operacoes-DateTime.pdb
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\obj\Debug\net6.0\Propriedade-Operacoes-DateTime.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\obj\Debug\net6.0\refint\Propriedade-Operacoes-DateTime.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\obj\Debug\net6.0\Propriedade-Operacoes-DateTime.pdb
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\obj\Debug\net6.0\Propriedade-Operacoes-DateTime.genruntimeconfig.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\Propriedade-Operacoes-DateTime\Propriedade-Operacoes-DateTime\obj\Debug\net6.0\ref\Propriedade-Operacoes-DateTime.dll

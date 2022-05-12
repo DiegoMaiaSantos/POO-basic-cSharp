@@ -1,0 +1,15 @@
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\bin\Debug\net6.0\Funcoes-strings.exe
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\bin\Debug\net6.0\Funcoes-strings.deps.json
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\bin\Debug\net6.0\Funcoes-strings.runtimeconfig.json
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\bin\Debug\net6.0\Funcoes-strings.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\bin\Debug\net6.0\Funcoes-strings.pdb
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\obj\Debug\net6.0\Funcoes-strings.csproj.AssemblyReference.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\obj\Debug\net6.0\Funcoes-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\obj\Debug\net6.0\Funcoes-strings.AssemblyInfoInputs.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\obj\Debug\net6.0\Funcoes-strings.AssemblyInfo.cs
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\obj\Debug\net6.0\Funcoes-strings.csproj.CoreCompileInputs.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\obj\Debug\net6.0\Funcoes-strings.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\obj\Debug\net6.0\refint\Funcoes-strings.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\obj\Debug\net6.0\Funcoes-strings.pdb
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\obj\Debug\net6.0\Funcoes-strings.genruntimeconfig.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\Funcoes-strings\Funcoes-strings\obj\Debug\net6.0\ref\Funcoes-strings.dll

@@ -1,0 +1,15 @@
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\bin\Debug\net6.0\expressao-condicional-ternaria.exe
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\bin\Debug\net6.0\expressao-condicional-ternaria.deps.json
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\bin\Debug\net6.0\expressao-condicional-ternaria.runtimeconfig.json
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\bin\Debug\net6.0\expressao-condicional-ternaria.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\bin\Debug\net6.0\expressao-condicional-ternaria.pdb
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\obj\Debug\net6.0\expressao-condicional-ternaria.csproj.AssemblyReference.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\obj\Debug\net6.0\expressao-condicional-ternaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\obj\Debug\net6.0\expressao-condicional-ternaria.AssemblyInfoInputs.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\obj\Debug\net6.0\expressao-condicional-ternaria.AssemblyInfo.cs
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\obj\Debug\net6.0\expressao-condicional-ternaria.csproj.CoreCompileInputs.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\obj\Debug\net6.0\expressao-condicional-ternaria.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\obj\Debug\net6.0\refint\expressao-condicional-ternaria.dll
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\obj\Debug\net6.0\expressao-condicional-ternaria.pdb
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\obj\Debug\net6.0\expressao-condicional-ternaria.genruntimeconfig.cache
+C:\Users\118274\Documents\CSharp-POO-Basic\expressao-condicional-ternaria\expressao-condicional-ternaria\obj\Debug\net6.0\ref\expressao-condicional-ternaria.dll
